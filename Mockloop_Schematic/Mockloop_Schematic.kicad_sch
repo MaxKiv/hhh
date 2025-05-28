@@ -3475,6 +3475,50 @@
 			)
 		)
 	)
+	(global_label "PRESSURE"
+		(shape input)
+		(at 236.22 40.64 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "af3840a8-24a1-4a26-858f-e55b3cb1e15a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 249.0627 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "VACUUM"
+		(shape input)
+		(at 236.22 43.18 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b00e067c-f672-4712-a04b-109a3006889e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 246.7648 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "AI6"
 		(shape input)
 		(at 173.99 60.96 180)
