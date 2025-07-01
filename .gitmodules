@@ -1,3 +1,6 @@
 [submodule "mockloop_python_interface"]
 	path = mockloop_python_interface
 	url = git@bitbucket.org:mechatronica/mockloop_python_interface.git
+[submodule "loop_sense"]
+	path = loop_sense
+	url = git@bitbucket.org:mechatronica/loop_sense.git

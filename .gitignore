@@ -19,7 +19,7 @@ dist/
 # Package files
 *.jar
 
-# Maven
+# Maven / Cargo
 target/
 dist/
 
