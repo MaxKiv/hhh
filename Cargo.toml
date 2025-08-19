@@ -1,5 +1,5 @@
 [workspace]
 resolver = "3"
 members = [
-  "loop_sense"
+  "loop_sense",
 ]

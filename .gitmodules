@@ -4,3 +4,6 @@
 [submodule "loop_sense"]
 	path = loop_sense
 	url = git@bitbucket.org:mechatronica/loop_sense.git
+[submodule "plc_lite"]
+	path = plc_lite
+	url = git@bitbucket.org:mechatronica/plc_lite.git
